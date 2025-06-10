@@ -27,8 +27,6 @@ Full Stack Development and Cybersecurity.
 - Email: [tsegaabkasaye@gmail.com](mailto:tsegaabkasaye@gmail.com)
 - Telegram: [@tsegaze_ab](https://t.me/tsegaze_ab)
 
-🧠 **What I Believe**
-> "When you work without checking the clock, you'll someday buy what you want without checking the price."
 
 ---
 
