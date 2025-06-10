@@ -1,12 +1,6 @@
 <!-- README.md for Tsegaab Kasaye -->
 
-<h1 align="center">
-  Tsegaab Kasaye
-</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tsegaze-ab1/tsegaze-ab1/main/banner.png" alt="Tsegaab Banner" width="100%" />
-</p>
+<h1 align="center">👋 Hello there! I'm Tsegaab Kasaye</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Arba%20Minch%20University-9b59b6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
@@ -25,11 +19,9 @@
 
 ## 🌟 About Me
 
-```txt
 I'm Tsegaab Kasaye, a passionate second-year Software Engineering student at Arba Minch University. I love building beautiful user interfaces,
 coding digital solutions, and continuously leveling up my skills. I'm currently working on several exciting projects and aim to specialize in
 Full Stack Development and Cybersecurity.
-```
 
 📬 **Contact Me**
 - Email: [tsegaabkasaye@gmail.com](mailto:tsegaabkasaye@gmail.com)
@@ -43,17 +35,17 @@ Full Stack Development and Cybersecurity.
 ## 🚀 Tech Stack (Animated Icons)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </div>
 
 ---
@@ -63,12 +55,10 @@ Full Stack Development and Cybersecurity.
 ### 🔹 [Digital Clock](https://tsegaze-ab1.github.io/Digital-Clock/)
 - A real-time web clock that displays the current time with smooth design.
 - **Tech Used:** HTML, CSS, JavaScript
-- ![Digital Clock Preview](https://raw.githubusercontent.com/tsegaze-ab1/Digital-Clock/main/preview.gif)
 
 ### 🔹 [Calculator](https://tsegaze-ab1.github.io/Calculator/)
 - A simple but stylish calculator that handles basic arithmetic operations.
 - **Tech Used:** HTML, CSS, JavaScript
-- ![Calculator Preview](https://raw.githubusercontent.com/tsegaze-ab1/Calculator/main/preview.gif)
 
 ✨ **More exciting and beautiful websites are on the way... Stay tuned!**
 
@@ -96,6 +86,7 @@ Full Stack Development and Cybersecurity.
 ---
 
 > Thank you for visiting my profile! Let's grow and build together 🚀
+
 
 
 
