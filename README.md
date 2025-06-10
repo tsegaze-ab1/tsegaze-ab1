@@ -1,7 +1,7 @@
 <!-- README.md for Tsegaab Kasaye -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=D59EFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Tsegaab+Kasaye!;Software+Engineering+Student+%F0%9F%92%BB;Front-End+Developer+%F0%9F%92%A1;Tech+Dreamer+%F0%9F%8C%9F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  Tsegaab Kasaye
 </h1>
 
 <p align="center">
@@ -29,14 +29,24 @@ Full Stack Development and Cybersecurity.
 - Telegram: [@tsegaze_ab](https://t.me/tsegaze_ab)
 
 🧠 **What I Believe**
-> "If you work without looking at the time, you can buy anything without looking at the price."
+> "When you work without checking the clock, you'll someday buy what you want without checking the price."
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack (with Animated Icons)
 
-<div align="center" style="background: linear-gradient(to right, #8e44ad, #9b59b6); border-radius: 15px; padding: 10px;">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,bootstrap,vscode,git&theme=light" height="60" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 </div>
 
 ---
@@ -70,12 +80,13 @@ Full Stack Development and Cybersecurity.
 
 ## 🌱 Currently Learning
 
-- Full Stack Development (MERN Stack)
+- Full Stack Development 
 - Cybersecurity Basics
 - Data Structures & Algorithms (DSA)
 
 ---
 
 > Thank you for visiting my profile! Let's grow and build together 🚀
+
 
 
