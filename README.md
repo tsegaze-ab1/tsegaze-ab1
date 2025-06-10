@@ -14,6 +14,13 @@
   <img src="https://img.shields.io/badge/Role-Future%20Full%20Stack%20Dev-d36eff?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <a href="https://t.me/tsegaze_ab">
+    <img src="https://img.shields.io/badge/Chat%20on%20Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=tsegaze-ab1" alt="visitors"/>
+</p>
+
 ---
 
 ## 🌟 About Me
@@ -33,33 +40,35 @@ Full Stack Development and Cybersecurity.
 
 ---
 
-## 🚀 Tech Stack (with Animated Icons)
+## 🚀 Tech Stack (Animated Icons)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="60" height="60"/>
 </div>
 
 ---
 
 ## 📂 Projects
 
-### 🔹 Digital Clock
+### 🔹 [Digital Clock](https://tsegaze-ab1.github.io/Digital-Clock/)
 - A real-time web clock that displays the current time with smooth design.
 - **Tech Used:** HTML, CSS, JavaScript
+- ![Digital Clock Preview](https://raw.githubusercontent.com/tsegaze-ab1/Digital-Clock/main/preview.gif)
 
-### 🔹 Calculator
+### 🔹 [Calculator](https://tsegaze-ab1.github.io/Calculator/)
 - A simple but stylish calculator that handles basic arithmetic operations.
 - **Tech Used:** HTML, CSS, JavaScript
+- ![Calculator Preview](https://raw.githubusercontent.com/tsegaze-ab1/Calculator/main/preview.gif)
 
 ✨ **More exciting and beautiful websites are on the way... Stay tuned!**
 
@@ -80,13 +89,14 @@ Full Stack Development and Cybersecurity.
 
 ## 🌱 Currently Learning
 
-- Full Stack Development 
+- Full Stack Development (MERN Stack)
 - Cybersecurity Basics
 - Data Structures & Algorithms (DSA)
 
 ---
 
 > Thank you for visiting my profile! Let's grow and build together 🚀
+
 
 
 
