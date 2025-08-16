@@ -28,7 +28,7 @@ Full Stack Development and Cybersecurity.
 - Telegram: [@tsegaze_ab](https://t.me/tsegaze_ab)
 
 🧠 **What I Believe**
-> "When you work without checking the clock, you'll someday buy what you want without checking the price."
+> "if you are a teck student you must know something new in every single day."
 
 ---
 
