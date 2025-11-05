@@ -1,6 +1,6 @@
 <!-- README.md for Tsegaab Kasaye -->
 
-<h1 align="center">👋 Hello there! I'm Tsegaab Kasaye</h1>
+<h1 align="center">👋 Hello there! I'm Tsega'ab Kasaye</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Student-Arba%20Minch%20University-9b59b6?style=for-the-badge&logo=graduation-cap&logoColor=white" />
