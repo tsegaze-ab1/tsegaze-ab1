@@ -1,8 +1,10 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Rubik+Glitch&size=54&duration=1700&pause=850&color=FF005C&center=true&vCenter=true&width=980&height=90&lines=Hii+I%27m+Tsegaab;Hii+I%27m+Tsegaab" alt="Glitch intro" />
+</p>
+
 <div align="center">
   <img src="image/animation.gif" width="420" alt="Animated banner" />
 </div>
-
-<h1 align="center">Tsega'ab Kasaye</h1>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
@@ -21,9 +23,11 @@
 ## About Me
 
 <p>
-I'm Tsegaab Kasaye, a passionate third-year Software Engineering student at Arba Minch University. I love building beautiful user interfaces,
-coding digital solutions, and continuously leveling up my skills. I'm currently working on several exciting projects and aim to specialize in
-Full Stack Development and Cybersecurity.
+I'm Tsegaab Kassaye, a dedicated third-year Software Engineering student at Arba Minch University with a strong passion for building modern, user-friendly, and efficient software solutions. I enjoy designing beautiful interfaces, writing clean code, and turning ideas into real working applications.
+
+I am continuously improving my skills by working on real projects, exploring new technologies, and challenging myself to grow every day. My main interests are Full Stack Development and Cybersecurity, and my goal is to become a professional developer who can build secure, scalable, and high-quality systems that solve real-world problems.
+
+I believe in learning by doing, staying consistent, and pushing myself beyond my limits to achieve excellence in the field of Software Engineering.
 </p>
 
 **Professional Title**
@@ -40,34 +44,50 @@ Full Stack Development and Cybersecurity.
 - GitHub: <a href="https://github.com/tsegaze-ab1">tsegaze-ab1</a>
 - LinkedIn: <a href="https://www.linkedin.com/in/tsegazeab12">www.linkedin.com/in/tsegazeab12</a>
 
-**Programming Languages**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=40&duration=2200&pause=700&color=00E5A8&center=true&vCenter=true&width=760&lines=Programming+Languages" alt="Programming languages" />
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007396)
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00B8FF)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007396" alt="Java" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00B8FF" alt="Prompt Engineering" />
+</p>
 
-**Frameworks And Libraries**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=40&duration=2200&pause=700&color=40C4FF&center=true&vCenter=true&width=760&lines=Frameworks+And+Libraries" alt="Frameworks and libraries" />
+</p>
 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
-![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
+</p>
 
-**Tools And Technologies**
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=40&duration=2200&pause=700&color=FFB300&center=true&vCenter=true&width=760&lines=Tools+And+Technologies" alt="Tools and technologies" />
+</p>
 
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
