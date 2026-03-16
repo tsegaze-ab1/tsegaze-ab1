@@ -62,6 +62,10 @@ Full Stack Development and Cybersecurity.
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007396)
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![C%23](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Go](https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00B8FF)
 
 **Frameworks And Libraries**
@@ -70,6 +74,8 @@ Full Stack Development and Cybersecurity.
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Django](https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=092E20)
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
 **Tools And Technologies**
