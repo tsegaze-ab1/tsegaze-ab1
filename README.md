@@ -116,7 +116,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 ## Experience
 
 - Third-year Software Engineering student at Arba Minch University
-- Completed and such as Data Structures, Discrete Mathematics, Operating Systems, and Algorithms,Networking,computer Architecture,advanced programing etc
+- Completed courses such as Data Structures, Discrete Mathematics, Operating Systems, and Algorithms,Networking,computer Architecture,advanced programing etc
 - Currently taking Machine learning, Destributed system,Cloud computing ...etc 
 
 ## Education
