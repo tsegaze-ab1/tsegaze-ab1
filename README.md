@@ -46,42 +46,50 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 
 <h3 align="center">Programming Languages</h3>
 
-<p align="center">
-  <img height="38" src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img height="38" src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img height="38" src="https://img.shields.io/badge/Go-0D1117?style=for-the-badge&logo=go&logoColor=00ADD8" alt="Go" />
-  <img height="38" src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-  <img height="38" src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=007396" alt="Java" />
-</p>
-<p align="center">
-  <img height="38" src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120" alt="C#" />
-  <img height="38" src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
-  <img height="38" src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-  <img height="38" src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img height="38" src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-  <img height="38" src="https://img.shields.io/badge/Prompt%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=00B8FF" alt="Prompt Engineering" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="44" height="44" alt="JavaScript" /><br /><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" alt="TypeScript" /><br /><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="44" height="44" alt="Go" /><br /><sub><b>Go</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" alt="Python" /><br /><sub><b>Python</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" alt="Java" /><br /><sub><b>Java</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="44" height="44" alt="C#" /><br /><sub><b>C#</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="44" height="44" alt="C++" /><br /><sub><b>C++</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" height="44" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.simpleicons.org/openai/00B8FF" width="44" height="44" alt="Prompt Engineering" /><br /><sub><b>Prompt Engineering</b></sub></td>
+    <td align="center" width="125"></td>
+  </tr>
+</table>
 
 <h3 align="center">Frameworks And Libraries</h3>
 
-<p align="center">
-  <img height="38" src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img height="38" src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-  <img height="38" src="https://img.shields.io/badge/Socket.IO-0D1117?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.IO" />
-  <img height="38" src="https://img.shields.io/badge/Django-0D1117?style=for-the-badge&logo=django&logoColor=44B78B" alt="Django" />
-</p>
-<p align="center">
-  <img height="38" src="https://img.shields.io/badge/Tailwind%20CSS-0D1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4" alt="Tailwind CSS" />
-  <img height="38" src="https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
-  <img height="38" src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /><br /><sub><b>React</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="44" height="44" alt="Socket.IO" /><br /><sub><b>Socket.IO</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django" /><br /><sub><b>Django</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" /><br /><sub><b>Bootstrap</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
+    <td align="center" width="165"></td>
+  </tr>
+</table>
 
 <h3 align="center">Tools And Technologies</h3>
 
-<p align="center">
-  <img height="38" src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img height="38" src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="44" height="44" alt="Git" /><br /><sub><b>Git</b></sub></td>
+    <td align="center" width="180"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="44" height="44" alt="GitHub" /><br /><sub><b>GitHub</b></sub></td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
