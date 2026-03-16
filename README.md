@@ -2,11 +2,6 @@
   <img src="image/animation.gif" width="540" alt="Animated banner" />
 </div>
 
-<div align="center">
-  <!-- Profile photo placeholder: put your image in assets/profile-photo.png -->
-  <img src="assets/profile-photo.png" width="170" alt="Profile photo placeholder" />
-</div>
-
 <h1 align="center">Tsega'ab Kasaye</h1>
 
 <p align="center">
