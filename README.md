@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tsegaze-ab1&style=for-the-badge&color=0A84FF" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/tsegaze-ab1?style=for-the-badge&logo=github&labelColor=0D1117&color=00B8FF" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-00E5A8?style=for-the-badge&labelColor=0D1117" alt="Open to collaboration" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
@@ -60,7 +59,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" height="44" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
-    <td align="center" width="125"><img src="https://cdn.simpleicons.org/openai/00B8FF" width="44" height="44" alt="Prompt Engineering" /><br /><sub><b>Prompt Engineering</b></sub></td>
+    <td align="center" width="125"></td>
     <td align="center" width="125"></td>
   </tr>
 </table>
