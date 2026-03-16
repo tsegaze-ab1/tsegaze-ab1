@@ -116,7 +116,8 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 ## Experience
 
 - Third-year Software Engineering student at Arba Minch University
-- Completed and currently taking courses such as Data Structures, Discrete Mathematics, Operating Systems, and Algorithms
+- Completed and such as Data Structures, Discrete Mathematics, Operating Systems, and Algorithms,Networking,computer Architecture,advanced programing etc
+- Currently taking Machine learning, Destributed system,Cloud computing ...etc 
 
 ## Education
 
@@ -133,6 +134,8 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 
 - Problem solving through coding
 - Building interesting and practical software solutions
+- playing football 
+- listening Music
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 
