@@ -2,6 +2,20 @@
   <img src="image/animation.gif" width="540" alt="Animated banner" />
 </div>
 
+<p align="center">
+  <a href="image/back.mp4">
+    <img src="https://img.shields.io/badge/Watch%20Intro%20Reel-MP4-0A84FF?style=for-the-badge&logo=vlcmediaplayer&logoColor=white" alt="Watch intro reel" />
+  </a>
+</p>
+
+<details>
+  <summary><b>Preview Intro Video</b></summary>
+  <br />
+  <div align="center">
+    <video src="image/back.mp4" width="100%" controls muted loop playsinline poster="image/animation.gif"></video>
+  </div>
+</details>
+
 <h1 align="center">Tsega'ab Kasaye</h1>
 
 <p align="center">
