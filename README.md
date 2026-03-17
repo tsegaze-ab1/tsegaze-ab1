@@ -59,7 +59,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" height="44" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
-    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="125"><img src="image/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
     <td align="center" width="125"></td>
   </tr>
 </table>
@@ -74,7 +74,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
     <td align="center" width="165"><img src="https://cdn.simpleicons.org/django/92E3A9" width="44" height="44" alt="Django" /><br /><sub><b>Django</b></sub></td>
   </tr>
   <tr>
-    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="165"><img src="image/tailwindcss.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
     <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44" height="44" alt="Bootstrap" /><br /><sub><b>Bootstrap</b></sub></td>
     <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="44" height="44" alt="MySQL" /><br /><sub><b>MySQL</b></sub></td>
     <td align="center" width="165"></td>
