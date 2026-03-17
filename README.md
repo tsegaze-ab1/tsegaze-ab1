@@ -59,7 +59,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="44" height="44" alt="PHP" /><br /><sub><b>PHP</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="44" height="44" alt="HTML5" /><br /><sub><b>HTML5</b></sub></td>
     <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="44" height="44" alt="CSS3" /><br /><sub><b>CSS3</b></sub></td>
-    <td align="center" width="125"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
+    <td align="center" width="125"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
     <td align="center" width="125"></td>
   </tr>
 </table>
@@ -71,7 +71,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
     <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" alt="React" /><br /><sub><b>React</b></sub></td>
     <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="44" height="44" alt="Node.js" /><br /><sub><b>Node.js</b></sub></td>
     <td align="center" width="165"><img src="https://cdn.simpleicons.org/socketdotio/FFFFFF" width="44" height="44" alt="Socket.IO" /><br /><sub><b>Socket.IO</b></sub></td>
-    <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="44" height="44" alt="Django" /><br /><sub><b>Django</b></sub></td>
+    <td align="center" width="165"><img src="https://cdn.simpleicons.org/django/92E3A9" width="44" height="44" alt="Django" /><br /><sub><b>Django</b></sub></td>
   </tr>
   <tr>
     <td align="center" width="165"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="44" height="44" alt="Tailwind CSS" /><br /><sub><b>Tailwind CSS</b></sub></td>
@@ -95,7 +95,7 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,mongodb,mysql,git,github&theme=dark" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,python,cpp,react,nodejs,tailwind,mongodb,mysql,git,github&theme=dark" alt="Tech stack icons" />
 </p>
 
 <p align="center">
