@@ -22,7 +22,7 @@
 ## About Me
 
 <p>
-I'm Tsegaab Kassaye, a dedicated third-year Software Engineering student at Arba Minch University with a strong passion for building modern, user-friendly, and efficient software solutions. I enjoy designing beautiful interfaces, writing clean code, and turning ideas into real working applications.
+I m Tsegaab Kassaye, a dedicated third-year Software Engineering student at Arba Minch University with a strong passion for building modern, user-friendly, and efficient software solutions. I enjoy designing beautiful interfaces, writing clean code, and turning ideas into real working applications.
 
 I am continuously improving my skills by working on real projects, exploring new technologies, and challenging myself to grow every day. My main interests are Full Stack Development and Cybersecurity, and my goal is to become a professional developer who can build secure, scalable, and high-quality systems that solve real-world problems.
 
