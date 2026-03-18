@@ -178,6 +178,6 @@ I believe in learning by doing, staying consistent, and pushing myself beyond my
 </p>
 
 <p align="center">
-  <b>"Build consistently. Improve daily. Deliver with purpose."</b>
+  <b>"Build consistently. Improve daily. Deliver with purpose. achieve your Goal"</b>
 </p>
 
